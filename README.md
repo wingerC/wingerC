@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wingerC
-- 🌱 I’m currently learning JavaScript/Java
+- 🌱 I’m currently learning JavaScript / Java
 - 📫 Reach me at jcman1@yandex.ru
 
 <!---
